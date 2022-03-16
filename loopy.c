@@ -7,7 +7,7 @@
  * 20, 14, 8, 2, -4, -10, -16, -22, -28
  * 19, 27, 35, 43, 51, 59, 67, 75
  * 
- * Print those four lines three times, once with each different loop.
+ * Print those four lines three times, once with each different loop, for a total of 12 loops.
  *  a. for loop
  *  b. while loop
  *  c. do-while loop
